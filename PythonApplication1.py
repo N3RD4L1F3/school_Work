@@ -85,6 +85,5 @@ def Main():
         print("Here are your scores: ")
         for j in range(0,len(answerStatus)):
             print("Question",j, answerStatus[j])
-
-answerStatus=list()
+            
 Menu()
