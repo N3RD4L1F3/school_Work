@@ -1,0 +1,39 @@
+How do you delcare a variable in Python
+1)int x=0 
+2)def x () 
+*3)x=0 
+!
+How do you create a function in python
+1)void func (){} 
+*2)def func (): 
+3)def(func):
+!
+Which of these is not a data type in python
+1)Int
+2)Float 
+*3)Double
+4)Long
+!
+Is a stack
+*1)LIFO (Last In First Out)
+2)FIFO (First In First Out) 
+!
+What is a pointer
+1)Someone who uses there finger to indicate something 
+*2)Something that points to a specific loaction in memory
+!
+What is an algorithm
+K step by procedure performing task
+!
+What is recursion
+K function calls itself from within the same
+!
+Desciribe how a binary search works
+K ordered list midpoint search get of half until found
+!
+What is a function
+K section of code performs returns 
+!
+How does this differ from a procedure
+K returns a value
+!
