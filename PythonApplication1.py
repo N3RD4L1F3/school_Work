@@ -22,7 +22,7 @@ def Menu():
 def CheckAnswer(AnswerNum,questionType,keyWordArray):
     userAnswer=""
     counter=0
-    userAnswer=(input("Please enter Your answer answer: "))
+    userAnswer=(input("Please enter Your answer: "))
     #If the question is a short answer
     if questionType!=1:
         if int(userAnswer)==AnswerNum:
