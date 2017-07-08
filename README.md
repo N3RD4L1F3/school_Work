@@ -1,2 +1,2 @@
-# school_Work
-This is a repo for all of my school work. Nothing interesting here unless you like looking at poorly programmed solutions to simple problems.
+# Random work
+This is a repo for all of the programs and scrpts that I don't think deserve their own repo.
