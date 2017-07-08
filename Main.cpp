@@ -1,3 +1,7 @@
+/* 
+This is an asteroids like the game asteroids (but worse in every single way)
+It is not fun to play and I would not reccomend it.
+*/
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include <vector>
